@@ -27,3 +27,4 @@ O usuário pode cadastrar os itens para sua lista de compras e gerar um PDF ou r
   
   <a href="https://pauloguedes96.github.io/Lista-de-Compras/">Acesse o projeto clicando aqui</a>
   
+Feito por Paulo Guedes -  <a href="https://www.linkedin.com/in/pauloguedes96/">Linkedin</a>
