@@ -3,15 +3,15 @@
 
  ![Alt text](images/screenshot.jpg?raw=true "Screenshot")
  
- [Sobre o Projeto](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#sobre-o-projeto) | [Tecnologias](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#tecnologias-utilizadas) | [Licença](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#licen%C3%A7a)
+[Sobre o Projeto](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#sobre-o-projeto) | [Tecnologias](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#tecnologias-utilizadas) | [Licença](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#licen%C3%A7a)
  
- # **Sobre o Projeto**
+ # :clipboard: **Sobre o Projeto**
 
 Projeto desenvolvido a partir de estudos com o curso Dev. Web Full Stack do professor Igor Oliveira, apesar de simples, é funcional e responsivo, contem o com uso de flexbox, grid e javascript.
  
 O usuário pode cadastrar os itens para sua lista de compras e gerar um PDF ou realizar a impressão do mesmo com um unico clique.
  
- # **Tecnologias Utilizadas**
+ # :computer: **Tecnologias Utilizadas**
  
  O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -19,6 +19,6 @@ O usuário pode cadastrar os itens para sua lista de compras e gerar um PDF ou r
 * CSS
 * JavaScript
 
- # **Licença**
+ # :closed_book: **Licença**
  
  Esse projeto está sob licença MIT. Veja o arquivo LICENÇA para mais detalhes.
