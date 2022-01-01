@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/style.css">
+
+    <title>Lista de Compras Online</title>
+
+</head>
+
+<body>
+
+    <div class="containerMain">
+
+        <div class="header">
+            <h1 id="title" style="text-shadow: 2px 2px 3px  rgba(0, 0, 0, 0.418)
+            ;">Lista de Compras Online</h1>
+        </div>
+
+        <div class="spacing1">Espaço</div>
+
+        <div class="lista">
+
+            <div class="containerLista1">
+                Insira abaixo os itens da sua lista de compras</div>
+
+            <div class="containerLista2">
+                <input id="inputItem" type="text" placeholder="Item">
+            </div>
+
+            <div class="containerLista3">
+                <button id="btnInserir" onclick="inserir(this)" onkeydown="inserirEnter(this)"
+                    style="padding: 8px; font-weight: bold; font-size: 11pt; margin-left: 5px;    font-family: 'Rubik', sans-serif;">Adicionar</button>
+            </div>
+
+            <div class="containerLista4">
+                <div class="gradeLista">
+                    <ol id="lista"></ol>
+                </div>
+            </div>
+
+            <div class="containerLista5">
+                <button id="btnLimparLista" onclick="apagarTodosItens(this)" style="padding: 10px; font-weight: bold; font-size: 11pt; margin-left: 5px;    font-family: 'Rubik', sans-serif;">Limpar</button>
+
+                <button id="btnImprimir"
+                    style="padding: 10px; font-weight: bold; font-size: 11pt; margin-left: 5px;    font-family: 'Rubik', sans-serif;" onclick="gerarPDF(this)">Imprimir / Gerar PDF</button>
+            </div>
+
+        </div>
+
+        <div class="spacing2">Espaço</div>
+
+        <div class="footer">
+            <p> Desenvolvido por Paulo Guedes - <a href="https://github.com/pauloguedes96">Github</a> </p>
+        </div>
+
+        <div class="coluna3">
+            <img id="imgCompras" src="./images/compras.png" alt="" width="">
+        </div>
+
+        <div class="coluna1">
+            <img id="imgchecklist" src="./images/checklist.png" alt="" width="">
+        </div>
+
+    </div>
+
+    <script src="./scripts/script.js"></script>
+
+</body>
+
+</html>
