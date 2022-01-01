@@ -1,9 +1,9 @@
 
- <p align="center">Projeto Lista de Compras</p>
+ <p align="center"> Lista de Compras Online </p>
 
  ![Alt text](images/screenshot.jpg?raw=true "Screenshot")
  
-[Sobre o Projeto](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#sobre-o-projeto) | [Tecnologias](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#tecnologias-utilizadas) | [Licença](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#licen%C3%A7a)
+ <p align="center"> <a href="https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#sobre-o-projeto">Sobre o Projeto</a> |  <a href="https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#tecnologias-utilizadas">Tecnologias Utilizadas</a>  |  <a href="https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#licen%C3%A7a">Licença</a> </p>
  
  # :clipboard: **Sobre o Projeto**
 
