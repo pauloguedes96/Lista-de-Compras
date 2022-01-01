@@ -1,5 +1,5 @@
 
- <p align="center"> Lista de Compras Online </p>
+ <p align="center"> Projeto Lista de Compras Online </p>
 
  ![Alt text](images/screenshot.jpg?raw=true "Screenshot")
  
