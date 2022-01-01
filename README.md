@@ -3,7 +3,7 @@
 
  ![Alt text](images/screenshot.jpg?raw=true "Screenshot")
  
- [Sobre o Projeto](https://exemplo.com/) | [Tecnologias](https://exemplo.com/) | [Licença](https://exemplo.com/)
+ [Sobre o Projeto](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#sobre-o-projeto) | [Tecnologias](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#tecnologias-utilizadas) | [Licença](https://github.com/pauloguedes96/Lista-de-Compras/blob/main/README.md#licen%C3%A7a)
  
  # **Sobre o Projeto**
 
