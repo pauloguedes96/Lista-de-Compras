@@ -11,14 +11,19 @@ Projeto desenvolvido a partir de estudos com o curso Dev. Web Full Stack do prof
  
 O usuário pode cadastrar os itens para sua lista de compras e gerar um PDF ou realizar a impressão do mesmo com um unico clique.
  
- # :computer: **Tecnologias Utilizadas**
+ # :rocket: **Tecnologias Utilizadas**
  
  O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* HTML
-* CSS
-* JavaScript
+* :heavy_check_mark: HTML
+* :heavy_check_mark: CSS
+* :heavy_check_mark: JavaScript
 
  # :closed_book: **Licença**
  
  Esse projeto está sob licença MIT. Veja o arquivo LICENÇA para mais detalhes.
+ 
+  # 	:earth_americas: **Preview**
+  
+  <a href="https://pauloguedes96.github.io/Lista-de-Compras/">Acesse o projeto clicando aqui</a>
+  
