@@ -70,11 +70,11 @@ function inserir(e) {
 
      preencherLista();
 
-     /* limpaErroCampoVazio(); */
+     limpaErroCampoVazio();
 
  }
  else {
-     /* erroCampoVazio(); */
+     erroCampoVazio();
  }
 
 }
@@ -104,12 +104,12 @@ function preencherLista() {
 
 function erroCampoVazio() {
  let erro = document.getElementById("erroCampoVazio");
- erro.style.display = "block";
+ erro.style.visibility = "visible";
 }
 
 function limpaErroCampoVazio() {
  let erro = document.getElementById("erroCampoVazio");
- erro.style.display = "none";
+ erro.style.visibility = "hidden";
 }
 
 function apagarTodosItens(e) {
@@ -117,7 +117,7 @@ function apagarTodosItens(e) {
  let listaCompra = document.getElementById("lista");
  listaCompra.innerHTML = "";
 
- /* limpaErroCampoVazio(); */
+ limpaErroCampoVazio();
 
  //Limpa a memória do navegador
  localStorage.clear();
